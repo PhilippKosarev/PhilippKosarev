@@ -1,5 +1,5 @@
-- Hi, I’m Philipp Kosarev
-- I’m interested in 3D art and Gnome app development.
+- Hi, I’m Philipp
+- I sometimes do 3D art and GTK app development
 - You can contact me through my e-mail: philipp.kosarev@gmail.com
 
 <!---
